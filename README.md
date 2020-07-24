@@ -12,31 +12,9 @@ CRUD API for blogging platform. Built from scratch with `npm` and Express. Handl
 
 ## Details
 
-Below is an embedded view of the source code from Glitch.com, where it's currently deployed. If it fails to load, you can also open it in a separate tab [here](https://glitch.com/edit/#!/miguelniblock-blog-api). 
-
-<div class="glitch-embed-wrap" style="height: 430px; width: 100%;">
-  <iframe
-    src="https://glitch.com/embed/#!/embed/miguelniblock-blog-api?path=blogPostRouter.js&previewSize=0"
-    title="miguelniblock-blog-api on Glitch"
-    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
-</div>
-
-
-
-
-<br>
-
 ### GET all posts
 
 If you open the live app URL: [https://miguelniblock-blog-api.glitch.me/blog-posts](https://miguelniblock-blog-api.glitch.me/blog-posts), your browser will receive a response with a JSON file that contains all the blog posts in the storage model. In this case, it only has some sample content.
-
-<iframe
-    src="https://miguelniblock-blog-api.glitch.me/blog-posts"
-    title="miguelniblock-blog-api on Glitch"
-    style="height: 100%; width: 100%; border: 0; background-color: white">
-  </iframe>
 
 
 ### GET, PUT and DELETE blog posts by :id
