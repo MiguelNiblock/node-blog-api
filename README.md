@@ -27,5 +27,5 @@ The same principle applies to the DELETE and PUT methods. You simply send the re
 
 In this screenshot we're sending a POST request to the URL `miguelniblock-blog-api.glitch.me/blog-posts`, with a body containing a JSON object with the fields used by the storage model. After sending this request, this new post is available when we send new GET requests, as described above.
 
-<span class="image main"><img src="../My_Profesisonal_Site/miguelniblock.github.io/images/postman-post-glitch-blog-api.png" alt="banner" /></span>
+![screenshot](postman-post-glitch-blog-api.png)
 
